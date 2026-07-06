@@ -1,0 +1,23 @@
+# MNeighbor Alliance (MNA) — The Selbtoria Project
+## Reclaiming Our Streets for Connection, Community, and Safety
+
+We love our blocks, but modern life makes it easy to live yards away from people we rarely get to talk to. We want to change that. Our goal is to build deeply connected neighborhoods. 
+
+The hyper-local framework, **The Neighbor Link**, is a pre-packaged, plug-and-play toolkit designed to handle the administrative and legal red tape, allowing us to focus entirely on building and strengthening Community.
+
+### How "The Neighbor Link" Works
+MNeighbor Alliance operates as a shared civic platform serving neighbors directly and through networking.
+* **We build** the legal framework and the master insurance policies.
+* **You grab** the toolkit (the "Link") when your specific blocks want to host something.
+* **The neighborhood handles** the fun parts; the system handles the risk.
+
+### ⚖️ System Boundary Guardrails
+
+| What's IN The Neighbor Link | What is NOT in the Link |
+| :--- | :--- |
+| **Absolute Liability Protection:** Events are run under a formal non-profit corporate veil, protecting your personal home and assets. | **Commercial Intent:** Nobody makes a dime. Everything we build is open-source and legally barred from being sold or commercialized. |
+| **Instant City Permits:** Pre-mapped blocks and step-by-step navigation scripts for the City of Saint Paul. | **Forced Participation:** There are no mandatory dues or mandatory meetings. If you want to host, you host. If you just want to eat pizza. |
+| **The Digital Petition Loop:** A simple QR-code system so neighbors can sign street closure petitions from their phones in 30 seconds. | **Political Bureaucracy:** We are not a homeowners association (HOA) or a government planning committee. We do not make rules about your property. |
+| **Shared Community Gear:** Access to a communal inventory of yard signs, blockades, and activities. | **Centralized Control:** Each local block Link retains total autonomy over what events they throw and how they run them. |
+
+We aren't asking for money. We are asking for an appetite. If you want to see our blocks become more interconnected and livable, let’s team up to build the community we want to see.

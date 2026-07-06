@@ -1,0 +1,31 @@
+{
+  "formTitle": "MNeighbor Alliance \u2014 Street Closure Petition",
+  "fields": [
+    {
+      "name": "Full Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "Street Address",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "Consent",
+      "type": "checkbox",
+      "label": "I support temporarily closing our block for community connection under MNeighbor Alliance.",
+      "required": true
+    },
+    {
+      "name": "Contact Info (Email/Mobile)",
+      "type": "text",
+      "required": false
+    }
+  ],
+  "settings": {
+    "allowGuestAccess": true,
+    "anonymizeResponses": false,
+    "preventMultipleSubmissions": true
+  }
+}
