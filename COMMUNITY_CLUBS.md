@@ -66,7 +66,7 @@ Keep costs at absolute zero by using public or shared spaces:
 
 ## 📋 Active Club Frameworks
 When a resident wants to spin up a new club, they can design a dedicated implementation plan detailing technical configurations, community rollout steps, and hardware guides. Currently, the alliance has initialized the following framework:
-*   [LoRa Radio & Meshnet Club Plan](file:///c:/Users/donno/source/mneighbor-alliance/LORA_RADIO_CLUB_PLAN.md): A step-by-step blueprint for building a decentralized, off-grid communication network across neighborhood block links.
+*   [Electronics & Tinkering Club Plan](file:///c:/Users/donno/source/mneighbor-alliance/ELECTRONICS_TINKERING_CLUB_PLAN.md): A step-by-step blueprint for building a local hardware, upcycling, DIY home automation, and 3D printing/making community.
 
 ---
 
