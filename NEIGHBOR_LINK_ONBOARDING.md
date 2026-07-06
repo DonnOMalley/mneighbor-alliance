@@ -8,7 +8,7 @@ The incoming "Link" must be defined entirely by its residents. The recommended s
 
 ### Step 2: Nominate the 3-Person Stewardship Team
 To keep administration lean and avoid top-heavy boards, each Link is anchored by three specific resident volunteer roles:
-* **The Router (Communications):** Manages local messaging channels, digital invites, and porch-to-porch welcome outreach.
+* **The Router (Communications):** Manages local messaging channels, digital invites, porch-to-porch welcome outreach, and cross-neighborhood promotion for [Community Clubs](file:///c:/Users/donno/source/mneighbor-alliance/COMMUNITY_CLUBS.md).
 * **The Ledger (Finance):** Manages the local micro-pool of funds, tracks neighborhood contributions, and coordinates reimbursements.
 * **The Protocol (Logistics):** Holds the master copy of the permitting guide, builds the maps, and coordinates the city insurance certificates.
 
@@ -25,6 +25,6 @@ The master MNA bank account remains a single repository, but the master treasure
 If an adjacent neighborhood block is already hyper-organized and possesses its own independent non-profit status (e.g., a localized community council like LexHam), do not use the steps above. Instead, execute the Affiliate Memorandum of Understanding (MOU):
 * **Fiduciary Firebreak:** The MOU explicitly dictates that both organizations remain entirely independent legal entities. Neither assumes financial or legal liability for the actions, debts, or omissions of the other.
 * **Asset Interoperability:** Both groups agree to cross-promote events, coordinate street-closure calendars to avoid scheduling conflicts, and share non-monetary physical assets (e.g., traffic sawhorses, canopies, or tech gear).
-* **The Mesh Council:** The affiliate group appoints one volunteer "Router" to sit on a bi-annual peer-to-peer roundtable to maintain an open communication mesh across neighborhoods.
+* **The Mesh Council:** The affiliate group appoints one volunteer "Router" to sit on a bi-annual peer-to-peer roundtable to maintain an open communication mesh across neighborhoods, including cross-promoting interest groups and community clubs.
 
 > 📝 **Template Filling Note:** When utilizing templates located within the `/templates` folder (such as the Affiliate MOU), ensure all localized variables inside brackets `[ ]` are modified to reflect your node configuration details prior to routing or formal signatures.
