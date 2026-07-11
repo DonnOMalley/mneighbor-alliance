@@ -8,7 +8,7 @@ The incoming "Link" must be defined entirely by its residents. The recommended s
 
 ### Step 2: Nominate the 3-Person Stewardship Team
 To keep administration lean and avoid top-heavy boards, each Link is anchored by three specific resident volunteer roles:
-* **The Router (Communications):** Manages local messaging channels, digital invites, porch-to-porch welcome outreach, and cross-neighborhood promotion for [Community Clubs](file:///c:/Users/donno/source/mneighbor-alliance/COMMUNITY_CLUBS.md).
+* **The Router (Communications):** Manages local messaging channels, digital invites, porch-to-porch welcome outreach, and cross-neighborhood promotion for [Community Clubs](COMMUNITY_CLUBS.md).
 * **The Ledger (Finance):** Manages the local micro-pool of funds, tracks neighborhood contributions, and coordinates reimbursements.
 * **The Protocol (Logistics):** Holds the master copy of the permitting guide, builds the maps, and coordinates the city insurance certificates.
 
