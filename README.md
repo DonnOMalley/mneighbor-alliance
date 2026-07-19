@@ -3,6 +3,20 @@
 
 We love our blocks, but modern life makes it easy to live yards away from people we rarely get to talk to. We want to change that. Our goal is to build deeply connected neighborhoods. 
 
+### 📍 Our Neighborhood: Salvatoria
+Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, Minnesota, the Salvatoria neighborhood is defined by the following boundaries:
+
+| Boundary | Street |
+| :--- | :--- |
+| **North** | Rondo Frontage Road (south side of I-94) |
+| **South** | Summit Avenue |
+| **West** | Lexington Parkway |
+| **East** | Dale Street |
+
+**[View the Interactive Boundary Map](maps/salvatoria_boundary.geojson)** — click to see the full neighborhood footprint on GitHub's map viewer.
+
+---
+
 The hyper-local framework, **The Neighbor Link**, is a pre-packaged, plug-and-play toolkit designed to handle the administrative and legal red tape, allowing us to focus entirely on building and strengthening Community.
 
 ### How "The Neighbor Link" Works
@@ -26,8 +40,8 @@ Once a Neighbor Link is activated, the real work begins at the block level. Each
 
 ### 📡 Beyond the Block: Community Clubs
 Interested in a specific hobby (e.g., LoRa mesh radios, gardening, or beekeeping) but don't have enough people on your single block? The Alliance facilitates **Community Clubs** by using our peer-to-peer block network to connect neighbors with shared interests across multiple block boundaries:
-*   Read the [Community Clubs Playbook](file:///c:/Users/donno/source/mneighbor-alliance/COMMUNITY_CLUBS.md) to understand the autonomous affinity mesh model.
-*   Review the [Electronics & Tinkering Club Plan](file:///c:/Users/donno/source/mneighbor-alliance/ELECTRONICS_TINKERING_CLUB_PLAN.md) for a hardware, upcycling, and DIY automation blueprint.
-*   Use the [Club Interest Flyer Template](file:///c:/Users/donno/source/mneighbor-alliance/templates/CLUB_INTEREST_FLYER.md) to start recruiting across your local mesh network.
+*   Read the [Community Clubs Playbook](COMMUNITY_CLUBS.md) to understand the autonomous affinity mesh model.
+*   Review the [Electronics & Tinkering Club Plan](ELECTRONICS_TINKERING_CLUB_PLAN.md) for a hardware, upcycling, and DIY automation blueprint.
+*   Use the [Club Interest Flyer Template](templates/CLUB_INTEREST_FLYER.md) to start recruiting across your local mesh network.
 
 We aren't asking for money. We are asking for an appetite. If you want to see our blocks become more interconnected and livable, let’s team up to build the community we want to see.

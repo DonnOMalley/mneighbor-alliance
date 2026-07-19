@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvatoria Neighborhood Boundary",
+        "description": "Bounded by the Rondo frontage road (north), Summit Avenue (south), Lexington Parkway (west), and Dale Street (east).",
+        "stroke": "#e76f51",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#2a9d8f",
+        "fill-opacity": 0.15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-93.1467, 44.9505],
+            [-93.1264, 44.9505],
+            [-93.1264, 44.9400],
+            [-93.1467, 44.9400],
+            [-93.1467, 44.9505]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selby & Victoria",
+        "description": "The heart of Salvatoria — the corner of Selby Avenue and Victoria Street.",
+        "marker-color": "#e76f51",
+        "marker-size": "large",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1365, 44.9466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rondo Frontage Road (North Boundary)",
+        "description": "Northern boundary of the Salvatoria neighborhood.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.1467, 44.9505],
+          [-93.1264, 44.9505]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Avenue (South Boundary)",
+        "description": "Southern boundary of the Salvatoria neighborhood.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.1467, 44.9400],
+          [-93.1264, 44.9400]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lexington Parkway (West Boundary)",
+        "description": "Western boundary of the Salvatoria neighborhood.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.1467, 44.9505],
+          [-93.1467, 44.9400]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dale Street (East Boundary)",
+        "description": "Eastern boundary of the Salvatoria neighborhood.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.1264, 44.9505],
+          [-93.1264, 44.9400]
+        ]
+      }
+    }
+  ]
+}
