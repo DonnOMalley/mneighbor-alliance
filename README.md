@@ -20,6 +20,10 @@ MNeighbor Alliance operates as a shared civic platform serving neighbors directl
 | **The Digital Petition Loop:** A simple QR-code system so neighbors can sign street closure petitions from their phones in 30 seconds. | **Political Bureaucracy:** We are not a homeowners association (HOA) or a government planning committee. We do not make rules about your property. |
 | **Shared Community Gear:** Access to a communal inventory of yard signs, blockades, and activities. | **Centralized Control:** Each local block Link retains total autonomy over what events they throw and how they run them. |
 
+### 🏘️ The Block Community Network
+Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Leader** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
+*   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered leadership model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
+
 ### 📡 Beyond the Block: Community Clubs
 Interested in a specific hobby (e.g., LoRa mesh radios, gardening, or beekeeping) but don't have enough people on your single block? The Alliance facilitates **Community Clubs** by using our peer-to-peer block network to connect neighbors with shared interests across multiple block boundaries:
 *   Read the [Community Clubs Playbook](file:///c:/Users/donno/source/mneighbor-alliance/COMMUNITY_CLUBS.md) to understand the autonomous affinity mesh model.
