@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Salvatoria Neighborhood Boundary",
+        "name": "Selbtoria Neighborhood Boundary",
         "description": "Bounded by the Rondo frontage road (north), Summit Avenue (south), Lexington Parkway (west), and Dale Street (east).",
         "stroke": "#e76f51",
         "stroke-width": 3,
@@ -29,7 +29,7 @@
       "type": "Feature",
       "properties": {
         "name": "Selby & Victoria",
-        "description": "The heart of Salvatoria — the corner of Selby Avenue and Victoria Street.",
+        "description": "The heart of Selbtoria — the corner of Selby Avenue and Victoria Street.",
         "marker-color": "#e76f51",
         "marker-size": "large",
         "marker-symbol": "star"
@@ -43,7 +43,7 @@
       "type": "Feature",
       "properties": {
         "name": "Rondo Frontage Road (North Boundary)",
-        "description": "Northern boundary of the Salvatoria neighborhood.",
+        "description": "Northern boundary of the Selbtoria neighborhood.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -60,7 +60,7 @@
       "type": "Feature",
       "properties": {
         "name": "Summit Avenue (South Boundary)",
-        "description": "Southern boundary of the Salvatoria neighborhood.",
+        "description": "Southern boundary of the Selbtoria neighborhood.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -77,7 +77,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lexington Parkway (West Boundary)",
-        "description": "Western boundary of the Salvatoria neighborhood.",
+        "description": "Western boundary of the Selbtoria neighborhood.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -94,7 +94,7 @@
       "type": "Feature",
       "properties": {
         "name": "Dale Street (East Boundary)",
-        "description": "Eastern boundary of the Salvatoria neighborhood.",
+        "description": "Eastern boundary of the Selbtoria neighborhood.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7

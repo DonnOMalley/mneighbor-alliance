@@ -3,8 +3,8 @@
 
 We love our blocks, but modern life makes it easy to live yards away from people we rarely get to talk to. We want to change that. Our goal is to build deeply connected neighborhoods. 
 
-### 📍 Our Neighborhood: Salvatoria
-Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, Minnesota, the Salvatoria neighborhood is defined by the following boundaries:
+### 📍 Our Neighborhood: Selbtoria
+Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, Minnesota, the Selbtoria neighborhood is defined by the following boundaries:
 
 | Boundary | Street |
 | :--- | :--- |
@@ -13,7 +13,7 @@ Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, M
 | **West** | Lexington Parkway |
 | **East** | Dale Street |
 
-**[View the Interactive Boundary Map](maps/salvatoria_boundary.geojson)** — click to see the full neighborhood footprint on GitHub's map viewer.
+**[View the Interactive Boundary Map](maps/selbtoria_boundary.geojson)** — click to see the full neighborhood footprint on GitHub's map viewer.
 
 ---
 
