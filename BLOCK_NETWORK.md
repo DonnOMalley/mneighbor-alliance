@@ -16,10 +16,10 @@ The Block Community Network operates on two tiers to keep leadership lightweight
 │                   THE NEIGHBOR LINK                 │
 │            (3-to-5-Block Cluster)                   │
 │                                                     │
-│   ┌──────────┐  ┌──────────┐  ┌──────────┐         │
-│   │ Router   │  │ Ledger   │  │ Protocol │         │
-│   │ (Comms)  │  │ (Finance)│  │ (Permits)│         │
-│   └────┬─────┘  └──────────┘  └──────────┘         │
+│   ┌──────────┐  ┌──────────┐  ┌──────────┐          │
+│   │ Router   │  │ Ledger   │  │ Protocol │          │
+│   │ (Comms)  │  │ (Finance)│  │ (Permits)│          │
+│   └────┬─────┘  └──────────┘  └──────────┘          │
 │        │                                            │
 │        │ coordinates                                │
 │        │                                            │
