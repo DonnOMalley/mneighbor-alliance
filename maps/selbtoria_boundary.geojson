@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Selbtoria Neighborhood Boundary",
-        "description": "Bounded by the Rondo frontage road (north), Summit Avenue (south), Lexington Parkway (west), and Dale Street (east).",
+        "description": "Bounded by Marshall Avenue (north), Laurel Avenue (south), Chatsworth Street (west), and Grotto Street (east).",
         "stroke": "#e76f51",
         "stroke-width": 3,
         "stroke-opacity": 1,
@@ -16,11 +16,11 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-93.1467, 44.9505],
-            [-93.1264, 44.9505],
-            [-93.1264, 44.9400],
-            [-93.1467, 44.9400],
-            [-93.1467, 44.9505]
+            [-93.1415, 44.9483],
+            [-93.1315, 44.9483],
+            [-93.1315, 44.9455],
+            [-93.1415, 44.9455],
+            [-93.1415, 44.9483]
           ]
         ]
       }
@@ -42,8 +42,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rondo Frontage Road (North Boundary)",
-        "description": "Northern boundary of the Selbtoria neighborhood.",
+        "name": "Marshall Avenue (North Boundary)",
+        "description": "Northern boundary of the Selbtoria neighborhood, from Chatsworth Street to Grotto Street.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -51,16 +51,16 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-93.1467, 44.9505],
-          [-93.1264, 44.9505]
+          [-93.1415, 44.9483],
+          [-93.1315, 44.9483]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Summit Avenue (South Boundary)",
-        "description": "Southern boundary of the Selbtoria neighborhood.",
+        "name": "Laurel Avenue (South Boundary)",
+        "description": "Southern boundary of the Selbtoria neighborhood, from Chatsworth Street to Grotto Street.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -68,16 +68,16 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-93.1467, 44.9400],
-          [-93.1264, 44.9400]
+          [-93.1415, 44.9455],
+          [-93.1315, 44.9455]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lexington Parkway (West Boundary)",
-        "description": "Western boundary of the Selbtoria neighborhood.",
+        "name": "Chatsworth Street (West Boundary)",
+        "description": "Western boundary of the Selbtoria neighborhood, from Marshall Avenue to Laurel Avenue.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -85,16 +85,16 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-93.1467, 44.9505],
-          [-93.1467, 44.9400]
+          [-93.1415, 44.9483],
+          [-93.1415, 44.9455]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Dale Street (East Boundary)",
-        "description": "Eastern boundary of the Selbtoria neighborhood.",
+        "name": "Grotto Street (East Boundary)",
+        "description": "Eastern boundary of the Selbtoria neighborhood, from Marshall Avenue to Laurel Avenue.",
         "stroke": "#264653",
         "stroke-width": 2,
         "stroke-opacity": 0.7
@@ -102,9 +102,57 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-93.1264, 44.9505],
-          [-93.1264, 44.9400]
+          [-93.1315, 44.9483],
+          [-93.1315, 44.9455]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Ave & Chatsworth St (NW Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1415, 44.9483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatsworth St & Laurel Ave (SW Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1415, 44.9455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurel Ave & Grotto St (SE Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1315, 44.9455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Ave & Grotto St (NE Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1315, 44.9483]
       }
     }
   ]

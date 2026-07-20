@@ -8,10 +8,12 @@ Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, M
 
 | Boundary | Street |
 | :--- | :--- |
-| **North** | Rondo Frontage Road (south side of I-94) |
-| **South** | Summit Avenue |
-| **West** | Lexington Parkway |
-| **East** | Dale Street |
+| **North** | Marshall Avenue |
+| **South** | Laurel Avenue |
+| **West** | Chatsworth Street |
+| **East** | Grotto Street |
+
+Corners: Marshall & Chatsworth (NW), Marshall & Grotto (NE), Laurel & Grotto (SE), Chatsworth & Laurel (SW).
 
 **[View the Interactive Boundary Map](maps/selbtoria_boundary.geojson)** — click to see the full neighborhood footprint on GitHub's map viewer.
 
