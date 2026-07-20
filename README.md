@@ -38,6 +38,18 @@ MNeighbor Alliance operates as a shared civic platform serving neighbors directl
 Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Leader** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
 *   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered leadership model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
 
+### 🎪 Signature Programs
+The network runs a roster of named, recurring community events that give the neighborhood a predictable annual rhythm:
+*   **Concert Series** — Free outdoor evening concerts through the summer.
+*   **Ice Cream Social** — Annual mid-summer family gathering with music, games, and kids' activities.
+*   **Movie in the Park** — Free outdoor film screenings on warm evenings.
+*   **National Night Out** — Block-level gatherings on the first Tuesday of August, from a simple porch hang to a full street party.
+*   Read the [Programs Playbook](PROGRAMS.md) for ready-to-run formats, logistics checklists, and budget estimates.
+
+### 📚 Community Resources
+A centralized directory of city services, safety contacts, housing support, aging-in-place resources, local organizations, mutual aid networks, parks, transit, and libraries serving the Selbtoria area.
+*   Browse the [Community Resources Directory](COMMUNITY_RESOURCES.md) — also used to populate the [Welcome Info Sheet](templates/WELCOME_INFO_SHEET.md) for new neighbors.
+
 ### 📡 Beyond the Block: Community Clubs
 Interested in a specific hobby (e.g., LoRa mesh radios, gardening, or beekeeping) but don't have enough people on your single block? The Alliance facilitates **Community Clubs** by using our peer-to-peer block network to connect neighbors with shared interests across multiple block boundaries:
 *   Read the [Community Clubs Playbook](COMMUNITY_CLUBS.md) to understand the autonomous affinity mesh model.
