@@ -3,6 +3,8 @@
 
 We love our blocks, but modern life makes it easy to live yards away from people we rarely get to talk to. We want to change that. Our goal is to build deeply connected neighborhoods. 
 
+> 📝 Curious what's changed recently? See the [Change Log](CHANGELOG.md).
+
 ### 📍 Our Neighborhood: Selbtoria
 Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, Minnesota, the Selbtoria neighborhood is defined by the following boundaries:
 
