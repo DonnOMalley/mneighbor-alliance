@@ -6,9 +6,9 @@ We're a group of neighbors on **[Block Name, e.g., 1400 block of Portland Ave]**
 
 ---
 
-### Your Block Leader
-**Name:** [Block Leader Name]
-**Contact:** [Phone or Email — leader's choice]
+### Your Block Trusted Servant
+**Name:** [Block Trusted Servant Name]
+**Contact:** [Phone or Email — Trusted Servant's choice]
 
 ### Join the Block Chat
 We coordinate on **Signal** (free, private, no spam):
@@ -57,7 +57,7 @@ Ramsey County recycling schedule and guidelines:
 Contact: [Garden Coordinator Name or Email]
 
 ### Crime & Safety Committee
-**When:** [Day, e.g., 3rd Wednesday] of each month at [Time]
+**When:** [Day, e.g., 3rd Wednesday] — quarterly at [Time]
 **Where:** [Location, e.g., Yellowbird Coffee Bar, 1168 Selby Ave]
 Open to all residents. No sign-up required.
 

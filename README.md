@@ -6,6 +6,8 @@ We love our blocks, but modern life makes it easy to live yards away from people
 ### 📍 Our Neighborhood: Selbtoria
 Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, Minnesota, the Selbtoria neighborhood is defined by the following boundaries:
 
+<img src="maps/screenshots/Selbtoria Boundary Map.png" align="right" width="360" alt="Map of the Selbtoria neighborhood boundaries">
+
 | Boundary | Street |
 | :--- | :--- |
 | **North** | Marshall Avenue |
@@ -14,6 +16,8 @@ Built around the corner of **Selby Avenue and Victoria Street** in Saint Paul, M
 | **East** | Grotto Street |
 
 Corners: Marshall & Chatsworth (NW), Marshall & Grotto (NE), Laurel & Grotto (SE), Chatsworth & Laurel (SW).
+
+<br clear="right">
 
 **[View the Interactive Boundary Map](maps/selbtoria_boundary.geojson)** — click to see the full neighborhood footprint on GitHub's map viewer.
 
@@ -27,6 +31,14 @@ MNeighbor Alliance operates as a shared civic platform serving neighbors directl
 * **You grab** the toolkit (the "Link") when your specific blocks want to host something.
 * **The neighborhood handles** the fun parts; the system handles the risk.
 
+### 🔓 Toolkit vs. Alliance: You Don't Have to Join
+
+The Neighbor Link toolkit and the MNeighbor Alliance are two separate things:
+
+* **The toolkit is free and unaffiliated by default.** Any neighborhood — organized or not — can pick up this open-source playbook and run its own hyper-local community independent of MNA. No membership, dues, or sign-up required.
+* **The Alliance is for neighborhoods that aren't already organized** but want the benefit of the shared legal shield, master insurance, and cross-neighborhood network described below. Joining is optional, not a requirement to use the toolkit.
+* We think neighborhoods working together is a net benefit, so we encourage joining where it makes sense — but a standalone Link is a fully legitimate way to use this project.
+
 ### ⚖️ System Boundary Guardrails
 
 | What's IN The Neighbor Link | What is NOT in the Link |
@@ -37,8 +49,8 @@ MNeighbor Alliance operates as a shared civic platform serving neighbors directl
 | **Shared Community Gear:** Access to a communal inventory of yard signs, blockades, and activities. | **Centralized Control:** Each local block Link retains total autonomy over what events they throw and how they run them. |
 
 ### 🏘️ The Block Community Network
-Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Leader** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
-*   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered leadership model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
+Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Trusted Servant** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
+*   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered Trusted Servant model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
 
 ### 🎪 Signature Programs
 The network runs a roster of named, recurring community events that give the neighborhood a predictable annual rhythm:

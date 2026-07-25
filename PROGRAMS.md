@@ -1,7 +1,7 @@
 # MNeighbor Alliance (MNA) — Programs Playbook
 ## Signature Events That Give the Neighborhood a Rhythm
 
-The [Event Playbook](EVENT_PLAYBOOK.md) covers the mechanics of executing a permitted street closure. This document is different — it defines a menu of **named, recurring community programs** that Block Leaders and Links can adopt to keep the neighborhood active year-round.
+The [Event Playbook](EVENT_PLAYBOOK.md) covers the mechanics of executing a permitted street closure. This document is different — it defines a menu of **named, recurring community programs** that Block Trusted Servants and Links can adopt to keep the neighborhood active year-round.
 
 Each program below is a ready-to-run format. Pick the ones that fit your Link, customize the details, and plug them into the [Year-Round Block Engagement Calendar](BLOCK_NETWORK.md#4-year-round-block-engagement-calendar).
 
@@ -28,7 +28,7 @@ A recurring series of free outdoor evening concerts held at a consistent neighbo
 - [ ] **Sound Management:** Position amplifiers facing away from non-participating houses. Keep volume conversational between sets. All amplified music ceases by 10:00 PM per city noise ordinance.
 - [ ] **Food Trucks (Optional):** Invite 1-2 local food trucks to park adjacent to the venue. No cost to the Link — trucks operate independently. Coordinate arrival/departure times.
 - [ ] **Seating:** Attendees bring their own lawn chairs and blankets. The Link can set out a few communal folding chairs for elderly neighbors or newcomers.
-- [ ] **Promotion:** Block Leaders drop flyers 1 week before each date. Post to the Link's Signal group. Add to the MNA community calendar.
+- [ ] **Promotion:** Block Trusted Servants drop flyers 1 week before each date. Post to the Link's Signal group. Add to the MNA community calendar.
 
 ### Permitting Notes
 *   If the concert is held in a **public park**, check with Saint Paul Parks & Recreation for any reservation or amplified sound permit requirements.
@@ -75,7 +75,7 @@ Set up distinct stations so families can move between them at their own pace:
 > Suggested donations at the event typically cover or exceed costs, making this close to self-funding.
 
 ### Promotion
-*   Block Leaders drop flyers 2 weeks out.
+*   Block Trusted Servants drop flyers 2 weeks out.
 *   Post to Signal group and community calendar.
 *   Use the [Club Interest Flyer Template](templates/CLUB_INTEREST_FLYER.md) as a formatting guide for the event flyer.
 
@@ -127,7 +127,7 @@ A free outdoor film screening on a warm evening. Simple to execute, universally 
 
 ## 4. National Night Out
 
-**National Night Out (NNO)** is a nationwide annual event held on the **first Tuesday of August** that promotes police-community partnerships and neighborhood camaraderie. It's one of the easiest events a Block Leader can organize because the format is inherently casual and the national program provides built-in awareness.
+**National Night Out (NNO)** is a nationwide annual event held on the **first Tuesday of August** that promotes police-community partnerships and neighborhood camaraderie. It's one of the easiest events a Block Trusted Servant can organize because the format is inherently casual and the national program provides built-in awareness.
 
 ### Format
 
@@ -140,7 +140,7 @@ A free outdoor film screening on a warm evening. Simple to execute, universally 
 
 ### The Spectrum: Minimum Viable to Full Send
 
-NNO works at any scale. Block Leaders should pick the level that matches their block's energy:
+NNO works at any scale. Block Trusted Servants should pick the level that matches their block's energy:
 
 **Level 1 — The Porch Hang (1 person can do this)**
 *   Set out a cooler of drinks and a bag of chips on your front porch or lawn.
@@ -165,7 +165,7 @@ NNO works at any scale. Block Leaders should pick the level that matches their b
 *   **No permit needed** for Level 1 or Level 2 gatherings on private property or sidewalks. A street closure (Level 3) requires the full Event Playbook permitting process with a 45-day lead time.
 
 ### Promotion
-*   Block Leaders announce the date in the Signal group at least 2 weeks out.
+*   Block Trusted Servants announce the date in the Signal group at least 2 weeks out.
 *   Drop a porch flyer 1 week before with the time, location, and what to bring.
 *   Day-of reminder in the Signal group that morning.
 
@@ -173,10 +173,10 @@ NNO works at any scale. Block Leaders should pick the level that matches their b
 
 ## Proposing New Programs
 
-The four programs above are starting templates, not a closed list. Any neighbor or Block Leader can propose a new recurring program by:
+The four programs above are starting templates, not a closed list. Any neighbor or Block Trusted Servant can propose a new recurring program by:
 
 1.  **Drafting a one-page format sheet** following the structure above (format table, logistics checklist, budget estimate, permitting notes).
 2.  **Testing it once** as a one-off event on their block.
-3.  **Sharing the results** with the Router, who can distribute it to other Block Leaders and the Mesh Council for adoption across Links.
+3.  **Sharing the results** with the Router, who can distribute it to other Block Trusted Servants and the Mesh Council for adoption across Links.
 
 If a new program format proves repeatable, it gets added to this playbook.

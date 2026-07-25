@@ -1,9 +1,9 @@
 # MNeighbor Alliance (MNA) — Community Resources Directory
 ## Local Services, City Contacts, and Neighborhood Assets for the Selbtoria Area
 
-This directory is a centralized reference for residents, Block Leaders, and the [Welcome Info Sheet](templates/WELCOME_INFO_SHEET.md). It covers city services, safety contacts, housing and aging support, local organizations, transit, and parks within or adjacent to the Selbtoria neighborhood boundary.
+This directory is a centralized reference for residents, Block Trusted Servants, and the [Welcome Info Sheet](templates/WELCOME_INFO_SHEET.md). It covers city services, safety contacts, housing and aging support, local organizations, transit, and parks within or adjacent to the Selbtoria neighborhood boundary.
 
-> **Keeping This Current:** Resources change. Block Leaders and Routers should flag outdated entries to the Ledger or Protocol volunteer for updates at least once per year (recommended: early Spring before flyer season begins).
+> **Keeping This Current:** Resources change. Block Trusted Servants and Routers should flag outdated entries to the Ledger or Protocol volunteer for updates at least once per year (recommended: early Spring before flyer season begins).
 
 ---
 
@@ -14,15 +14,15 @@ This directory is a centralized reference for residents, Block Leaders, and the 
 | Service | Contact | Notes |
 | :--- | :--- | :--- |
 | **Emergency (Police, Fire, EMS)** | **911** | Always call 911 for crimes in progress, medical emergencies, or fires. |
-| **SPPD Western District (Non-Emergency)** | 651-266-5512 | For non-urgent police matters: suspicious activity, noise complaints after the fact, welfare checks. |
-| **Police Dispatch (After-Hours Non-Emergency)** | 651-291-1111 | After-hours noise complaints, non-urgent disturbances. |
-| **Citizen Service Line (311)** | 651-266-8989 | General city services: potholes, streetlight outages, graffiti, dead animal removal, code violations. |
-| **Saint Paul Fire Prevention** | 651-228-6200 | Fire safety inspections, smoke detector questions, community fire safety programs. |
+| **SPPD Western District (Non-Emergency)** | 651&#8209;266&#8209;5512 | For non-urgent police matters: suspicious activity, noise complaints after the fact, welfare checks. |
+| **Police Dispatch (After-Hours Non-Emergency)** | 651&#8209;291&#8209;1111 | After-hours noise complaints, non-urgent disturbances. |
+| **Citizen Service Line (311)** | 651&#8209;266&#8209;8989 | General city services: potholes, streetlight outages, graffiti, dead animal removal, code violations. |
+| **Saint Paul Fire Prevention** | 651&#8209;228&#8209;6200 | Fire safety inspections, smoke detector questions, community fire safety programs. |
 
 ### Reporting & Online Tools
 *   **Online Incident Reporting:** [stpaul.gov/departments/police/report-incident](https://www.stpaul.gov/departments/police/report-incident) — File non-emergency police reports online.
 *   **City Service Requests:** [stpaul.gov/services](https://www.stpaul.gov/services) — Submit requests for streetlight repair, pothole filling, graffiti removal, and other city maintenance.
-*   **Crime & Safety Committee:** The Selbtoria network runs a monthly Crime & Safety Committee. See the [Block Community Network Playbook](BLOCK_NETWORK.md#3-crime--safety-committee) for meeting schedule and agenda.
+*   **Crime & Safety Committee:** The Selbtoria network runs a quarterly Crime & Safety Committee. See the [Block Community Network Playbook](BLOCK_NETWORK.md#3-crime--safety-committee) for meeting schedule and agenda.
 
 ### Snow Emergencies & Winter
 *   **Snow Emergency Hotline:** 651-266-PLOW (7569)
@@ -39,7 +39,7 @@ This directory is a centralized reference for residents, Block Leaders, and the 
 | :--- | :--- |
 | **Curbside Recycling** | Weekly collection by Ramsey County. Schedule and accepted materials: [ramseycounty.us/residents/recycling-waste](https://www.ramseycounty.us/residents/recycling-waste) |
 | **Yard Waste / Composting** | Seasonal curbside collection (April – November). Yard waste must be in compostable bags or open containers. |
-| **Bulky Item Pickup** | Schedule large item pickup through the Citizen Service Line (651-266-8989) or online. |
+| **Bulky Item Pickup** | Schedule large item pickup through the Citizen Service Line (651&#8209;266&#8209;8989) or online. |
 | **Ramsey County Drop-Off Sites** | Free drop-off for electronics, hazardous waste, appliances, and mattresses. Locations and hours: [ramseycounty.us](https://www.ramseycounty.us) |
 
 ### Utilities
@@ -56,8 +56,8 @@ This directory is a centralized reference for residents, Block Leaders, and the 
 | **Minnesota Housing (mnhousing.gov)** | State-level housing programs, rental assistance, homebuyer resources, and affordable housing locator. | [mnhousing.gov](https://www.mnhousing.gov) |
 | **Tenant Rights Handbook** | Free handbook from the Minnesota Attorney General covering lease rights, security deposits, eviction protections, and repair obligations. | [ag.state.mn.us](https://www.ag.state.mn.us/Consumer/Handbooks/LtGd/default.asp) |
 | **Housing Counseling (HUD-Approved)** | Free counseling for renters and buyers: budgeting, foreclosure prevention, fair housing complaints. | Find a local counselor at [hud.gov](https://www.hud.gov/findacounselor) |
-| **Problem Properties / Code Enforcement** | Report housing code violations (unsafe conditions, nuisance properties) to the City of Saint Paul. | 651-266-8989 or [stpaul.gov/departments/safety-inspections](https://www.stpaul.gov/departments/safety-inspections) |
-| **Ramsey County Emergency Assistance** | Short-term help with rent, utilities, and housing stabilization for residents in crisis. | 651-266-4444 |
+| **Problem Properties / Code Enforcement** | Report housing code violations (unsafe conditions, nuisance properties) to the City of Saint Paul. | 651&#8209;266&#8209;8989 or [stpaul.gov/departments/safety-inspections](https://www.stpaul.gov/departments/safety-inspections) |
+| **Ramsey County Emergency Assistance** | Short-term help with rent, utilities, and housing stabilization for residents in crisis. | 651&#8209;266&#8209;4444 |
 
 ---
 
@@ -67,11 +67,11 @@ Resources for residents who choose to remain in their homes as they age, rather 
 
 | Resource | Description | Contact |
 | :--- | :--- | :--- |
-| **Ramsey County Senior Services** | In-home support, meals on wheels, caregiver resources, and senior activity centers. | 651-266-4448 |
-| **Senior LinkAge Line** | Free statewide helpline for seniors and caregivers. Connects to local services, Medicare counseling, and long-term care options. | 1-800-333-2433 |
+| **Ramsey County Senior Services** | In-home support, meals on wheels, caregiver resources, and senior activity centers. | 651&#8209;266&#8209;4448 |
+| **Senior LinkAge Line** | Free statewide helpline for seniors and caregivers. Connects to local services, Medicare counseling, and long-term care options. | 1&#8209;800&#8209;333&#8209;2433 |
 | **Trellis (formerly Amherst H. Wilder Foundation)** | Home health aides, adult day programs, caregiver support in the Saint Paul area. | [trellisconnects.org](https://www.trellisconnects.org) |
 | **AARP Community Connections** | Volunteer matching for errands, grocery delivery, and friendly check-in calls for isolated seniors. | [aarpcommunityconnections.org](https://aarpcommunityconnections.org) |
-| **Snow Shoveling & Lawn Care Assistance** | Block Leaders can coordinate seasonal mutual aid for elderly or mobility-limited neighbors. See the [Block Community Network winter engagement calendar](BLOCK_NETWORK.md#4-year-round-block-engagement-calendar). | Coordinate through Signal group |
+| **Snow Shoveling & Lawn Care Assistance** | Block Trusted Servants can coordinate seasonal mutual aid for elderly or mobility-limited neighbors. See the [Block Community Network winter engagement calendar](BLOCK_NETWORK.md#4-year-round-block-engagement-calendar). | Coordinate through Signal group |
 
 ---
 
@@ -81,12 +81,16 @@ Resources for residents who choose to remain in their homes as they age, rather 
 
 | Organization | Description | Contact |
 | :--- | :--- | :--- |
-| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block leader network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / lexham@lexham.org / 763-393-7043 |
-| **Summit-University Planning Council** | District council for the Summit-University neighborhood. Land use, community engagement, and grant programs. | [summituriversityplanningcouncil.org](https://www.summituriversityplanningcouncil.org) |
+| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block Trusted Servant network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / lexham@lexham.org / 763&#8209;393&#8209;7043 |
+| **Summit-University Planning Council** | District council for the Summit-University neighborhood. Land use, community engagement, and grant programs. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [summituriversityplanningcouncil.org](https://www.summituriversityplanningcouncil.org) |
 
 ### Mutual Aid & Gift Economy
 *   **Buy Nothing Groups:** Hyper-local Facebook groups where neighbors share, lend, give, and receive items for free. Search for your block's group at [buynothingproject.org](https://buynothingproject.org) or on Facebook.
 *   **Little Free Libraries / Pantries:** Neighborhood-maintained book and food-sharing boxes. Check [littlefreelibrary.org/map](https://littlefreelibrary.org/map) for locations near Selbtoria.
+
+### Our Signal Channels
+*   **General Summit-University Chat:** [Link pending community approval]
+*   **Selbtoria Chat:** [Link pending community approval]
 
 ### Arts & Culture
 *   **Lex-Ham Community Arts:** Local theatre and music organization producing classics, new works, and community performances. [lexhamarts.org](https://www.lexhamarts.org)
