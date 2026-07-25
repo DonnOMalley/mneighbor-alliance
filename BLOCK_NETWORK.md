@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD022 MD030 MD032 -->
 # MNeighbor Alliance (MNA) — Block Community Network
 ## Building a Persistent, Block-by-Block Neighbor Mesh
 
@@ -11,28 +12,28 @@ This document formalizes how individual blocks within a Link stay active, how ne
 
 The Block Community Network operates on two tiers to keep the Trusted Servant structure lightweight and distributed:
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                      THE NEIGHBOR LINK                          │
-│               (3-to-5-Block Cluster)                            │
-│                                                                  │
-│   ┌──────────┐  ┌──────────┐  ┌──────────┐                     │
-│   │ Router   │  │ Ledger   │  │ Protocol │                     │
-│   │ (Comms)  │  │ (Finance)│  │ (Permits)│                     │
-│   └────┬─────┘  └──────────┘  └──────────┘                     │
-│        │                                                        │
-│        │ coordinates                                            │
-│        │                                                        │
-│   ┌────▼──────────────────────────────────────────────┐         │
-│   │        BLOCK TRUSTED SERVANTS (Per-Block)          │         │
-│   │                                                     │         │
-│   │  Block A Trusted Servant ── 1400 Portland Ave      │         │
-│   │  Block B Trusted Servant ── 1400 Hague Ave         │         │
-│   │  Block C Trusted Servant ── 1400 Marshall Ave      │         │
-│   │  Block D Trusted Servant ── (Vacant — Recruiting)  │         │
-│   │  ...                                                │         │
-│   └─────────────────────────────────────────────────────┘         │
-└──────────────────────────────────────────────────────────────────┘
+```text
+┌─────────────────────────────────────────────────────┐
+│                   THE NEIGHBOR LINK                 │
+│            (3-to-5-Block Cluster)                   │
+│                                                     │
+│   ┌──────────┐  ┌──────────┐  ┌──────────┐          │
+│   │ Router   │  │ Ledger   │  │ Protocol │          │
+│   │ (Comms)  │  │ (Finance)│  │ (Permits)│          │
+│   └────┬─────┘  └──────────┘  └──────────┘          │
+│        │                                            │
+│        │ coordinates                                │
+│        │                                            │
+│   ┌────▼─────────────────────────────────────┐      │
+│   │         BLOCK LEADERS (Per-Block)        │      │
+│   │                                          │      │
+│   │  Block A Leader ── 1400 Portland Ave     │      │
+│   │  Block B Leader ── 1400 Hague Ave        │      │
+│   │  Block C Leader ── 1400 Marshall Ave     │      │
+│   │  Block D Leader ── (Vacant — Recruiting) │      │
+│   │  ...                                     │      │
+│   └──────────────────────────────────────────┘      │
+└─────────────────────────────────────────────────────┘
 ```
 
 > **A note on the name:** We call this role a "Trusted Servant" rather than a "leader" on purpose. The person in this role serves the block **and** themselves — it's not selfless martyrdom and it's not authority over neighbors. Both halves matter equally.
@@ -109,7 +110,7 @@ Neighborhood safety works best when it is proactive, recurring, and face-to-face
 
 ### Standing Agenda Template
 
-```
+```text
 CRIME & SAFETY COMMITTEE — [Link Name]
 Date: [Date]   Location: [Venue]   Facilitator: [Name]
 
