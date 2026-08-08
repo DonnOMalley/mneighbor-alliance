@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selbtoria Neighborhood Boundary",
+        "description": "Bounded by Marshall Avenue (north), Laurel Avenue (south), Chatsworth Street (west), and Grotto Street (east).",
+        "stroke": "#e76f51",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#2a9d8f",
+        "fill-opacity": 0.15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-93.14153, 44.94855],
+            [-93.13137, 44.94855],
+            [-93.13137, 44.94498],
+            [-93.14153, 44.94498],
+            [-93.14153, 44.94855]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selby & Victoria",
+        "description": "The heart of Selbtoria — the corner of Selby Avenue and Victoria Street.",
+        "marker-color": "#e76f51",
+        "marker-size": "large",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.13646, 44.94660]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Avenue (North Boundary)",
+        "description": "Northern boundary of the Selbtoria neighborhood, from Chatsworth Street to Grotto Street.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.14153, 44.94855],
+          [-93.13137, 44.94855]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurel Avenue (South Boundary)",
+        "description": "Southern boundary of the Selbtoria neighborhood, from Chatsworth Street to Grotto Street.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.14153, 44.94498],
+          [-93.13137, 44.94498]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatsworth Street (West Boundary)",
+        "description": "Western boundary of the Selbtoria neighborhood, from Marshall Avenue to Laurel Avenue.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.14153, 44.94855],
+          [-93.14153, 44.94498]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grotto Street (East Boundary)",
+        "description": "Eastern boundary of the Selbtoria neighborhood, from Marshall Avenue to Laurel Avenue.",
+        "stroke": "#264653",
+        "stroke-width": 2,
+        "stroke-opacity": 0.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-93.13137, 44.94855],
+          [-93.13137, 44.94498]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Ave & Chatsworth St (NW Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.14153, 44.94855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatsworth St & Laurel Ave (SW Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.14153, 44.94498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurel Ave & Grotto St (SE Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.13137, 44.94498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Ave & Grotto St (NE Corner)",
+        "marker-color": "#264653",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.13137, 44.94855]
+      }
+    }
+  ]
+}
