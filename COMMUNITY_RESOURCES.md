@@ -39,7 +39,7 @@ This directory is a centralized reference for residents, Block Trusted Servants,
 | :--- | :--- |
 | **Curbside Recycling** | Weekly collection by Ramsey County. Schedule and accepted materials: [ramseycounty.us/residents/recycling-waste](https://www.ramseycounty.us/residents/recycling-waste) |
 | **Yard Waste / Composting** | Seasonal curbside collection (April – November). Yard waste must be in compostable bags or open containers. |
-| **Bulky Item Pickup** | Schedule large item pickup through the Citizen Service Line (651&#8209;266&#8209;8989) or online. |
+| **Bulky Item Pickup** | Set bulky items at the curb on your normal garbage day with the word **"bulky"** written on them. The city will mark them for collection on your regular collection day and the item will be picked up in the next 2 days. |
 | **Ramsey County Drop-Off Sites** | Free drop-off for electronics, hazardous waste, appliances, and mattresses. Locations and hours: [ramseycounty.us](https://www.ramseycounty.us) |
 
 ### Utilities
@@ -81,8 +81,8 @@ Resources for residents who choose to remain in their homes as they age, rather 
 
 | Organization | Description | Contact |
 | :--- | :--- | :--- |
-| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block Trusted Servant network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / lexham@lexham.org / 763&#8209;393&#8209;7043 |
-| **Summit-University Planning Council** | District council for the Summit-University neighborhood. Land use, community engagement, and grant programs. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [summituriversityplanningcouncil.org](https://www.summituriversityplanningcouncil.org) |
+| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block Trusted Servant network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / [lexham@lexham.org](mailto:lexham@lexham.org) / [763-393-7043](tel:7633937043) |
+| **Summit-University Planning Council** | District council for the Summit-University neighborhood. Land use, community engagement, and grant programs. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [https://www.summit-university.org/](https://www.summit-university.org) |
 
 ### Mutual Aid & Gift Economy
 *   **Buy Nothing Groups:** Hyper-local Facebook groups where neighbors share, lend, give, and receive items for free. Search for your block's group at [buynothingproject.org](https://buynothingproject.org) or on Facebook.
