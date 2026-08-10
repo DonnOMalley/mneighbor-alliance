@@ -2,15 +2,15 @@
 # MNeighbor Alliance (MNA) — Block Community Network
 ## Building a Persistent, Block-by-Block Neighbor Mesh
 
-The Neighbor Link onboarding process establishes the legal shield and the 3-person stewardship team (Router, Ledger, Protocol) for a cluster of blocks. But a Link alone is a container — what fills it is the **Block Community Network**: a layer of per-block volunteer Trusted Servants who keep the neighborhood connected year-round, not just during permitted street events.
+The Neighbor Link onboarding process establishes the legal shield and the 3-person stewardship team (Router, Ledger, Protocol) for a cluster of blocks. But a Link alone is a container — what fills it is the **Block Community Network**: a layer of per-block volunteer Leaders who keep the neighborhood connected year-round, not just during permitted street events.
 
 This document formalizes how individual blocks within a Link stay active, how new neighbors get folded in, and how safety and communication flow from porch to porch.
 
 ---
 
-## 1. The Tiered Trusted Servant Model
+## 1. The Tiered Leadership Model
 
-The Block Community Network operates on two tiers to keep the Trusted Servant structure lightweight and distributed:
+The Block Community Network operates on two tiers to keep the structure lightweight and distributed:
 
 ```text
 ┌─────────────────────────────────────────────────────┐
@@ -36,18 +36,18 @@ The Block Community Network operates on two tiers to keep the Trusted Servant st
 └─────────────────────────────────────────────────────┘
 ```
 
-> **A note on the name:** We call this role a "Trusted Servant" rather than a "leader" on purpose. The person in this role serves the block **and** themselves — it's not selfless martyrdom and it's not authority over neighbors. Both halves matter equally.
+> **A note on block leeadership:** The person in this role serves the block **and** themselves — it's not selfless martyrdom and it's not authority over neighbors. Both halves matter equally.
 
 ### Tier 1: The Router (Link-Wide Coordinator)
 The Router role defined in the [Neighbor Link Onboarding SOP](NEIGHBOR_LINK_ONBOARDING.md) remains the top-level communications coordinator for the entire Link cluster. In the Block Community Network, the Router's responsibilities expand to include:
-*   **Managing Block Trusted Servants:** Recruiting, onboarding, and supporting a volunteer Trusted Servant for each individual block within the Link boundary.
-*   **Upward Relay:** Forwarding cross-block information from the Mesh Council (adjacent Links, Community Club invitations, alliance-wide announcements) down to Block Trusted Servants for porch-level distribution.
-*   **Vacancy Coverage:** If a block has no active Trusted Servant, coverage is shared across all three stewardship roles rather than falling solely on the Router — see the Vacancy Protocol in Section 6.
+*   **Managing Block Leaders:** Recruiting, onboarding, and supporting a volunteer for each individual block within the Link boundary.
+*   **Upward Relay:** Forwarding cross-block information from the Mesh Council (adjacent Links, Community Club invitations, alliance-wide announcements) down to Block Leaders for porch-level distribution.
+*   **Vacancy Coverage:** If a block has no active Leaders, coverage is shared across all three stewardship roles rather than falling solely on the Router — see the Vacancy Protocol in Section 6.
 
-### Tier 2: Block Trusted Servants (Per-Block Volunteers)
-Each individual block (the stretch between two cross streets) is anchored by one volunteer **Block Trusted Servant**. This is a casual, low-commitment role designed for any neighbor who is willing to be a point of contact for their specific block.
+### Tier 2: Block Leaders (Per-Block Volunteers)
+Each individual block (the stretch between two cross streets) is anchored by one volunteer **Block Leader**. This is a casual, low-commitment role designed for any neighbor who is willing to be a point of contact for their specific block.
 
-#### Block Trusted Servant Core Duties
+#### Block Leader Core Duties
 
 | Duty | Cadence | Description |
 | :--- | :--- | :--- |
@@ -57,8 +57,8 @@ Each individual block (the stretch between two cross streets) is anchored by one
 | **Seasonal Check-Ins** | 2-4x/year | A quick walk down the block to say hello, share upcoming event info, and gauge interest in activities. Not a formal meeting — just visible, friendly presence. |
 | **Signal Relay** | Ongoing | Pass relevant info from the block's Signal/Discord channel to neighbors who are not on digital platforms (older residents, non-smartphone households). |
 
-#### What a Block Trusted Servant Is NOT
-*   **Not a decision-maker.** Block Trusted Servants do not set policy, collect dues, or make binding commitments on behalf of MNA.
+#### What a Block Leaders Is NOT
+*   **Not a decision-maker.** Block Leaders do not set policy, collect dues, or make binding commitments on behalf of MNA.
 *   **Not permanent.** The role can rotate annually or whenever a volunteer needs to step back. There is no term limit or formal election.
 *   **Not on-call.** This is a casual volunteer position. There is no obligation to respond to messages within a specific timeframe.
 
@@ -66,12 +66,12 @@ Each individual block (the stretch between two cross streets) is anchored by one
 
 ## 2. The Welcome Visit (Lightweight Onboarding for New Neighbors)
 
-When a new household moves onto the block, the Block Trusted Servant delivers a brief, friendly porch visit within the first two weeks. The goal is simple: make the new neighbor feel seen, give them a single sheet of useful info, and invite them into the network. No gift bags, no formal presentations.
+When a new household moves onto the block, the Block Leader delivers a brief, friendly porch visit within the first two weeks. The goal is simple: make the new neighbor feel seen, give them a single sheet of useful info, and invite them into the network. No gift bags, no formal presentations.
 
 ### The Welcome Info Sheet (Single Page, Front & Back)
 
 **Front Side — "Welcome to the Block"**
-*   Block Trusted Servant name and contact info (phone or email — Trusted Servant's choice).
+*   Block Leader name and contact info (phone or email — Leader's choice).
 *   Link to the block's Signal group (or QR code).
 *   Next upcoming neighborhood event (date, time, location).
 *   One sentence: *"We're a group of neighbors who host a few casual block gatherings each year — potlucks, music, activities for the kids. No dues, no meetings, just community."*
@@ -84,7 +84,7 @@ When a new household moves onto the block, the Block Trusted Servant delivers a 
 *   Nearest community garden location and contact (if applicable).
 *   Crime & Safety Committee meeting info (see Section 3 below).
 
-> **Template Note:** A fillable Welcome Info Sheet template should be added to the `/templates` folder. Block Trusted Servants customize it with their block-specific details and print a small batch to keep on hand.
+> **Template Note:** A fillable Welcome Info Sheet template should be added to the `/templates` folder. Block Leaders customize it with their block-specific details and print a small batch to keep on hand.
 
 ---
 
@@ -104,7 +104,7 @@ Neighborhood safety works best when it is proactive, recurring, and face-to-face
 | **Time** | 30-45 minutes. After-work hours recommended (e.g., 6:00 PM or 6:30 PM). |
 | **Location** | Rotate between a local coffee shop, library meeting room, or member porch. A consistent anchor location is preferred for the first 6 months to build habit. |
 | **Open Attendance** | Any resident within the Link boundary (or adjacent Links) may attend. No sign-up required. |
-| **Facilitation** | Rotates each meeting between willing attendees. The Router or a Block Trusted Servant can anchor facilitation until the group is self-sustaining. |
+| **Facilitation** | Rotates each meeting between willing attendees. The Router or a Block Leader can anchor facilitation until the group is self-sustaining. |
 
 > **Why quarterly by default:** Most blocks don't have enough recurring safety business to justify a monthly meeting, and a lighter cadence is easier to sustain without burning out volunteers. If something urgent or ongoing comes up between meetings, a smaller functional group can form around that specific issue, meet as often as it needs to, and disband once the issue is resolved — it doesn't need to wait for or change the standing committee's cadence.
 
@@ -115,7 +115,7 @@ CRIME & SAFETY COMMITTEE — [Link Name]
 Date: [Date]   Location: [Venue]   Facilitator: [Name]
 
 1. BLOCK-BY-BLOCK CHECK-IN (10 min)
-   Each attending Block Trusted Servant (or resident) shares anything
+   Each attending Block Leader (or resident) shares anything
    notable from their block since the last meeting:
    - Package theft, vehicle break-ins, suspicious activity
    - Positive observations (new neighbors, resolved issues)
@@ -142,14 +142,14 @@ Date: [Date]   Location: [Venue]   Facilitator: [Name]
 
 ### Communication Protocol
 *   **Meeting notes** are posted to the Link's Signal group within 24 hours by the facilitator.
-*   **Urgent safety alerts** (active incidents, immediate hazards) bypass the quarterly meeting and go directly to the Signal group and porch-to-porch relay by Block Trusted Servants.
+*   **Urgent safety alerts** (active incidents, immediate hazards) bypass the quarterly meeting and go directly to the Signal group and porch-to-porch relay by Block Leaders.
 *   **Direct reporting:** Residents are encouraged to report issues directly to whichever group is properly equipped to handle the situation — SPPD non-emergency (**651-266-5512**) for police matters, the Citizen Service Line (**651-266-8989**) for city services, or **911** for emergencies. The committee does not replace any official reporting channel.
 
 ---
 
 ## 4. Year-Round Block Engagement Calendar
 
-A connected block is not one that throws a single annual party — it is one where neighbors see each other regularly in low-effort, recurring touchpoints. Below is a suggested annual rhythm for Block Trusted Servants to keep their block active without burnout:
+A connected block is not one that throws a single annual party — it is one where neighbors see each other regularly in low-effort, recurring touchpoints. Below is a suggested annual rhythm for Block Leaders to keep their block active without burnout:
 
 | Season | Activity | Effort Level | Description |
 | :--- | :--- | :--- | :--- |
@@ -162,7 +162,7 @@ A connected block is not one that throws a single annual party — it is one whe
 | **Late Fall** (Nov) | Flyer Drop — Winter Info | Low | Distribute winter parking rules, snow emergency info, and the Crime & Safety Committee schedule for the coming months. |
 | **Winter** (Dec-Feb) | Porch Light Season | Low | Encourage mutual aid during cold months: snow shoveling swaps, checking on elderly neighbors, sharing the Signal group for weather alerts. |
 
-> This calendar is a suggestion, not a mandate. Block Trusted Servants adopt whatever rhythm works for their block. Some blocks will be highly active year-round; others may only rally for one or two events. Both are fine.
+> This calendar is a suggestion, not a mandate. Block Leaders adopt whatever rhythm works for their block. Some blocks will be highly active year-round; others may only rally for one or two events. Both are fine.
 
 ---
 
@@ -177,11 +177,11 @@ Neighbors already ask for and offer this kind of help informally. This section g
     *   `[SHARE]` — tools, food, supplies, or skills offered or requested.
     *   `[ALERT]` — an urgent, time-sensitive safety or weather alert.
 2.  Include the address or block section and a one-line description of the need.
-3.  The Block Trusted Servant relays the post porch-to-porch for any neighbor who isn't on Signal (this is just the existing Signal Relay duty from Section 1).
-4.  Whoever can help responds directly in-thread or by direct message to coordinate. The Trusted Servant is not required to personally broker every request.
+3.  The Block Leader relays the post porch-to-porch for any neighbor who isn't on Signal (this is just the existing Signal Relay duty from Section 1).
+4.  Whoever can help responds directly in-thread or by direct message to coordinate. The Leader is not required to personally broker every request.
 
 ### Escalation
-*   `[ALERT]` posts bypass any normal wait-and-see pace — Block Trusted Servants relay these immediately, not on the next flyer drop or check-in cycle.
+*   `[ALERT]` posts bypass any normal wait-and-see pace — Block Leaders relay these immediately, not on the next flyer drop or check-in cycle.
 *   Anything involving imminent danger goes to **911** first. Signal is for coordinating after emergency services are already engaged, not instead of calling them.
 
 ### Room to Grow
@@ -189,19 +189,19 @@ This baseline is intentionally minimal so every block can adopt it without extra
 
 ---
 
-## 6. Recruiting Block Trusted Servants
+## 6. Recruiting Block Leaders
 
-The most common failure mode in neighborhood organizing is recruiting through meetings and formal applications. Block Trusted Servants should be recruited the way neighbors actually connect: through casual, face-to-face conversation.
+The most common failure mode in neighborhood organizing is recruiting through meetings and formal applications. Block Leaders should be recruited the way neighbors actually connect: through casual, face-to-face conversation.
 
 ### Recruitment Script (For the Router)
 > *"Hey [Name], I'm helping organize some block stuff through MNeighbor Alliance — just casual potlucks, a block party, that kind of thing. We're looking for someone on your block who'd be willing to be a point of contact — basically just dropping flyers on porches a few times a year and saying hi to new neighbors. No meetings, no dues. Would you be interested, or know someone who might be?"*
 
 ### Vacancy Protocol
-If a block within the Link boundary has no Trusted Servant, coverage is split across all three stewardship roles rather than falling entirely on the Router:
+If a block within the Link boundary has no Leader, coverage is split across all three stewardship roles rather than falling entirely on the Router:
 1.  **The Router** temporarily covers that block's flyer drops, welcome visits, and Signal relay.
 2.  **The Protocol volunteer** notes the vacancy against the block map so event planning and permitting account for the gap.
 3.  **The Ledger** flags the vacancy when reviewing community chest contributions tied to that block, if relevant.
-4.  All three ask existing Block Trusted Servants and neighbors if they know anyone on the vacant block.
+4.  All three ask existing Block Leaders and neighbors if they know anyone on the vacant block.
 5.  If a block remains vacant for more than 6 months, any of the three stewardship roles can flag it at the next Mesh Council roundtable for cross-Link outreach support.
 
 ---
@@ -210,7 +210,7 @@ If a block within the Link boundary has no Trusted Servant, coverage is split ac
 
 | Document | Relationship |
 | :--- | :--- |
-| [Neighbor Link Onboarding SOP](NEIGHBOR_LINK_ONBOARDING.md) | Establishes the Link, the 3-person team, and the legal charter. Block Trusted Servants are recruited **after** a Link is activated. |
-| [Event Playbook](EVENT_PLAYBOOK.md) | Block Trusted Servants support event execution (flyer drops, petition circulation, day-of volunteering) but the Protocol volunteer owns the permitting process. |
-| [Community Clubs Playbook](COMMUNITY_CLUBS.md) | Block Trusted Servants act as local scouts — surfacing hobby interests on their block and relaying them to the Router for cross-Link club formation. |
-| [Affiliate MOU Template](templates/AFFILIATE_MOU.md) | If an adjacent neighborhood (e.g., LexHam Community Council) already has its own block Trusted Servant network, coordinate through the Affiliate MOU rather than overlapping coverage. |
+| [Neighbor Link Onboarding SOP](NEIGHBOR_LINK_ONBOARDING.md) | Establishes the Link, the 3-person team, and the legal charter. Block Leaders are recruited **after** a Link is activated. |
+| [Event Playbook](EVENT_PLAYBOOK.md) | Block Leaders support event execution (flyer drops, petition circulation, day-of volunteering) but the Protocol volunteer owns the permitting process. |
+| [Community Clubs Playbook](COMMUNITY_CLUBS.md) | Block Leaders act as local scouts — surfacing hobby interests on their block and relaying them to the Router for cross-Link club formation. |
+| [Affiliate MOU Template](templates/AFFILIATE_MOU.md) | If an adjacent neighborhood (e.g., LexHam Community Council) already has its own block Leader network, coordinate through the Affiliate MOU rather than overlapping coverage. |

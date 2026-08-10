@@ -51,8 +51,8 @@ The Neighbor Link toolkit and the MNeighbor Alliance are two separate things:
 | **Shared Community Gear:** Access to a communal inventory of yard signs, blockades, and activities. | **Centralized Control:** Each local block Link retains total autonomy over what events they throw and how they run them. |
 
 ### 🏘️ The Block Community Network
-Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Trusted Servant** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
-*   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered Trusted Servant model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
+Once a Neighbor Link is activated, the real work begins at the block level. Each individual block within a Link is anchored by a volunteer **Block Leader** who keeps neighbors connected year-round through flyer drops, welcome visits for new move-ins, National Night Out coordination, and seasonal check-ins.
+*   Read the [Block Community Network Playbook](BLOCK_NETWORK.md) for the full tiered Leadership model, the Welcome Visit program, the standing Crime & Safety Committee, and the year-round engagement calendar.
 
 ### 🎪 Signature Programs
 The network runs a roster of named, recurring community events that give the neighborhood a predictable annual rhythm:

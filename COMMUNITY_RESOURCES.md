@@ -1,9 +1,9 @@
 # MNeighbor Alliance (MNA) — Community Resources Directory
 ## Local Services, City Contacts, and Neighborhood Assets for the Selbtoria Area
 
-This directory is a centralized reference for residents, Block Trusted Servants, and the [Welcome Info Sheet](templates/WELCOME_INFO_SHEET.md). It covers city services, safety contacts, housing and aging support, local organizations, transit, and parks within or adjacent to the Selbtoria neighborhood boundary.
+This directory is a centralized reference for residents, Block Leaders, and the [Welcome Info Sheet](templates/WELCOME_INFO_SHEET.md). It covers city services, safety contacts, housing and aging support, local organizations, transit, and parks within or adjacent to the Selbtoria neighborhood boundary.
 
-> **Keeping This Current:** Resources change. Block Trusted Servants and Routers should flag outdated entries to the Ledger or Protocol volunteer for updates at least once per year (recommended: early Spring before flyer season begins).
+> **Keeping This Current:** Resources change. Block Leaders and Routers should flag outdated entries to the Ledger or Protocol volunteer for updates at least once per year (recommended: early Spring before flyer season begins).
 
 ---
 
@@ -71,7 +71,7 @@ Resources for residents who choose to remain in their homes as they age, rather 
 | **Senior LinkAge Line** | Free statewide helpline for seniors and caregivers. Connects to local services, Medicare counseling, and long-term care options. | 1&#8209;800&#8209;333&#8209;2433 |
 | **Trellis (formerly Amherst H. Wilder Foundation)** | Home health aides, adult day programs, caregiver support in the Saint Paul area. | [trellisconnects.org](https://www.trellisconnects.org) |
 | **AARP Community Connections** | Volunteer matching for errands, grocery delivery, and friendly check-in calls for isolated seniors. | [aarpcommunityconnections.org](https://aarpcommunityconnections.org) |
-| **Snow Shoveling & Lawn Care Assistance** | Block Trusted Servants can coordinate seasonal mutual aid for elderly or mobility-limited neighbors. See the [Block Community Network winter engagement calendar](BLOCK_NETWORK.md#4-year-round-block-engagement-calendar). | Coordinate through Signal group |
+| **Snow Shoveling & Lawn Care Assistance** | Block Leaders can coordinate seasonal mutual aid for elderly or mobility-limited neighbors. See the [Block Community Network winter engagement calendar](BLOCK_NETWORK.md#4-year-round-block-engagement-calendar). | Coordinate through Signal group |
 
 ---
 
@@ -81,7 +81,7 @@ Resources for residents who choose to remain in their homes as they age, rather 
 
 | Organization | Description | Contact |
 | :--- | :--- | :--- |
-| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block Trusted Servant network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / [lexham@lexham.org](mailto:lexham@lexham.org) / [763-393-7043](tel:7633937043) |
+| **Lexington-Hamline Community Council (LexHam)** | Adjacent neighborhood council. Runs concerts, community gardens, and an active block Leader network. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [lexham.org](https://www.lexham.org) / [lexham@lexham.org](mailto:lexham@lexham.org) / [763-393-7043](tel:7633937043) |
 | **Summit-University Planning Council** | District council for the Summit-University neighborhood. Land use, community engagement, and grant programs. Potential affiliate partner — see [Affiliate MOU Template](templates/AFFILIATE_MOU.md). | [https://www.summit-university.org/](https://www.summit-university.org) |
 
 ### Mutual Aid & Gift Economy

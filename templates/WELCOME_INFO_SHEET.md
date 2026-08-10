@@ -6,9 +6,9 @@ We're a group of neighbors on **[Block Name, e.g., 1400 block of Portland Ave]**
 
 ---
 
-### Your Block Trusted Servant
-**Name:** [Block Trusted Servant Name]
-**Contact:** [Phone or Email — Trusted Servant's choice]
+### Your Block Leader
+**Name:** [Block Leader Name]
+**Contact:** [Phone or Email — Leader's choice]
 
 ### Join the Block Chat
 We coordinate on **Signal** (free, private, no spam):
